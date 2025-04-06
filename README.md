@@ -37,4 +37,4 @@ GET /api/progress/<user_id>
 
 - Python 3.10+
 - Flask框架
-- RESTful API设计 
+- RESTful API设计
